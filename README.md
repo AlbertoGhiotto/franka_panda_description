@@ -2,6 +2,10 @@
 
 Robot description package modified from [*franka_ros*](https://frankaemika.github.io/docs/franka_ros.html) package to include dynamics parameters for the robot arm and gripper for simulating the behaviour of the real robot. The descriptions also include transmission and control definitions required for Gazebo support (see [*panda_simulator*](https://github.com/justagist/panda_simulator) package).
 
+- 3/2/2021
+
+Modifying this package to add a kinect on the e.e
+
 ## Special Thanks
 
 - [@qgallouedec](https://github.com/qgallouedec):
